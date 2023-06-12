@@ -9,5 +9,5 @@ setup(name='selenium_leo',
       author='Leo',
       author_email='amazongalindo@gmail.com',
       url='https://github.com/silverxd20/selenium_functions',
-      packages=['selenium_leo'],
+      packages=['selenium_functions'],
      )
